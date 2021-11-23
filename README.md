@@ -2,7 +2,7 @@
 
 A fully responsive static site.
 
-Live Site URL: [digits-bs](https://ved-er.github.io/digits-bs/)
+Live Site URL: [company-digits-bs](https://ved-er.github.io/company-digital-bs/)
 
 
 ## Built with
@@ -13,7 +13,7 @@ Live Site URL: [digits-bs](https://ved-er.github.io/digits-bs/)
 
 
 ## Screenshot
-![Bootstrap v5 Themekit 11-23-2021 8-07-49 PM](https://user-images.githubusercontent.com/92994473/143088244-fecb4090-0735-4c2d-b39d-0c089a0e2ac5.png)
+![Company - Digital 11-23-2021 8-32-29 PM](https://user-images.githubusercontent.com/92994473/143091479-29116490-4d26-46b3-ae86-ecb30088f2b2.png)
 
 
 
