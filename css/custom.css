@@ -1,0 +1,86 @@
+.header-bg{
+    background-image: url('../images/herobg.svg');
+    background-repeat: no-repeat;
+    background-position: 50% 100%;
+    background-size: cover;
+}
+
+.small-text{
+    color: #00A077;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+h4{
+    font-weight: 700 !important;
+}
+
+
+.icon-bg{
+    background-color: #FFE7DB;
+    width: 50px;
+    height: 50px;
+    border-radius: .95rem;
+}
+
+.help-bg{
+    background-image: url('../images/shape1.svg'),url('../images/shape2.svg');
+    background-repeat: no-repeat,no-repeat;
+    background-position: right top, left bottom;
+    background-size: auto,auto;
+}
+
+.process-bg{
+    background-image: url('../images/processbg.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 184px;
+}
+
+.work-sec{
+    background: linear-gradient(249.78deg, #35D3FF -0.64%, #A963FB 103.6%);;
+}
+
+.work-pic::before{
+    position: absolute;
+    content: '';
+    top: -10%;
+    right: 6%;
+    width: 340px;
+    height: 340px;
+    background-image: url('../images/Vector.svg');
+}
+
+.footer-list{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    margin-bottom: 0;
+}
+
+
+
+.brands-mg{
+    margin-top: 188px;
+}
+
+.process-mg{
+    margin-top: 194px;
+}
+
+@media screen and (max-width:768px){
+    .footer-list{
+        display: block;
+        margin: 1rem 0;
+    }
+    .brands-mg{
+        margin-top: 100px;
+    }
+    .process-mg{
+        margin-top: 100px;
+    }
+    .process-bg{
+        padding-bottom: 100px;
+    }
+}
